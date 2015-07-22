@@ -18,7 +18,7 @@ be periodically cleaned-up (currently, every four weeks).
 Your unsaved documents will be stored under a directory named after the 
 date/time that your "gedit" session was started. For example:
 
-    ~/.gedit-unsaved/20131027-052807/Untitled Document 1
+    .local/share/gedit/unsaved/20131027-052807/Untitled Document 1
 
 
 Lastly, this plugin will observe your "autosave" setting. If "autosave" is 
